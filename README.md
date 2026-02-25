@@ -4,9 +4,6 @@
 
 ### 🚀 Fullstack Developer | 💻 Code Enthusiast | 🎨 UI/UX Lover
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.vercel.app)
 
 </div>
 
@@ -16,10 +13,9 @@
 
 I am a passionate **Fullstack Developer** with a strong focus on building modern, scalable, and high-performance web and mobile applications using current technologies. I continuously improve my skills by exploring new technologies, programming languages, and development tools while staying up-to-date with the latest trends in the tech industry.
 
-- 🔭 Currently working on **Web Parfum E-Commerce**
 - 🌱 Learning **TypeScript, Next.js, Docker**
 - 💬 Ask me about **React, Node.js, Flutter**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **fernandayoga34@gmail.com**
 - ⚡ Fun fact: I love building things that make a difference
 
 ---
@@ -61,9 +57,9 @@ I am a passionate **Fullstack Developer** with a strong focus on building modern
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandayogakurniawan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandayoga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fernandayogakurniawan&theme=tokyonight&hide_border=true&background=0D1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fernandayoga&theme=tokyonight&hide_border=true&background=0D1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7)
 
 </div>
 
@@ -73,7 +69,7 @@ I am a passionate **Fullstack Developer** with a strong focus on building modern
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandayogakurniawan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=c9d1d9&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandayoga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=c9d1d9&langs_count=8)
 
 </div>
 
@@ -83,7 +79,7 @@ I am a passionate **Fullstack Developer** with a strong focus on building modern
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=fernandayogakurniawan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=fernandayoga&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
 
@@ -93,7 +89,7 @@ I am a passionate **Fullstack Developer** with a strong focus on building modern
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fernandayogakurniawan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=a855f7&line=7c3aed&point=a855f7)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fernandayoga&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=a855f7&line=7c3aed&point=a855f7)
 
 </div>
 
@@ -103,9 +99,9 @@ I am a passionate **Fullstack Developer** with a strong focus on building modern
 
 <div align="center">
 
-[![Web Parfum](https://github-readme-stats.vercel.app/api/pin/?username=fernandayogakurniawan&repo=web-parfum&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9)](https://github.com/fernandayogakurniawan/web-parfum)
+[![Web Parfum](https://github-readme-stats.vercel.app/api/pin/?username=fernandayoga&repo=web-parfum&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9)](https://github.com/fernandayogakurniawan/web-parfum)
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=fernandayogakurniawan&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9)](https://github.com/fernandayogakurniawan/portfolio)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=fernandayoga&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9)](https://github.com/fernandayogakurniawan/portfolio)
 
 </div>
 
@@ -115,11 +111,10 @@ I am a passionate **Fullstack Developer** with a strong focus on building modern
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fernandayogakurniawan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-yoga-kurniawan-186b20295/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fernanddyoga_)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fernandayoga-portofolioweb.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandayoga34@gmail.com)
 
 </div>
 
@@ -129,6 +124,6 @@ I am a passionate **Fullstack Developer** with a strong focus on building modern
 
 ### 💜 Thanks for visiting! Have a great day! 💜
 
-![Profile Views](https://komarev.com/ghpvc/?username=fernandayogakurniawan&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=fernandayoga&color=blueviolet&style=for-the-badge)
 
 </div>
