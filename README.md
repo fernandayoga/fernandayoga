@@ -63,11 +63,14 @@ I am a passionate **Fullstack Developer** with a strong focus on building modern
 
 ---
 
-## 💻 Most Used Languages
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandayoga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=c9d1d9&langs_count=8)
+## 💻 Most Used Languages
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernandayoga&theme=tokyonight" alt="Top Languages by Repo" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fernandayoga&theme=tokyonight" alt="Top Languages by Commit" />
 
 </div>
 
@@ -86,12 +89,3 @@ I am a passionate **Fullstack Developer** with a strong focus on building modern
 
 </div>
 
----
-
-<div align="center">
-
-### 💜 Thanks for visiting! Have a great day! 💜
-
-![Profile Views](https://komarev.com/ghpvc/?username=fernandayoga&color=blueviolet&style=for-the-badge)
-
-</div>
