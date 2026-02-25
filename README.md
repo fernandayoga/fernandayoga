@@ -2,7 +2,7 @@
   
 # Hi, I'm Fernanda Yoga Kurniawan 👋
 
-### 🚀 Fullstack Developer | 💻 Code Enthusiast | 🎨 UI/UX Lover
+### 🚀 Fullstack Developer | 💻 Code Enthusiast | 💡Problem Solver
 
 
 </div>
@@ -56,8 +56,6 @@ I am a passionate **Fullstack Developer** with a strong focus on building modern
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandayoga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fernandayoga&theme=tokyonight&hide_border=true&background=0D1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7)
 
@@ -73,39 +71,9 @@ I am a passionate **Fullstack Developer** with a strong focus on building modern
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=fernandayoga&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fernandayoga&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=a855f7&line=7c3aed&point=a855f7)
-
-</div>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![Web Parfum](https://github-readme-stats.vercel.app/api/pin/?username=fernandayoga&repo=web-parfum&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9)](https://github.com/fernandayogakurniawan/web-parfum)
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=fernandayoga&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9)](https://github.com/fernandayogakurniawan/portfolio)
-
-</div>
-
----
 
 ## 📫 Connect With Me
 
