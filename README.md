@@ -24,20 +24,7 @@ I am a passionate **Fullstack Developer** with a strong focus on building modern
 
 <div align="center">
 
-### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
-
-### Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,laravel,php&theme=dark)](https://skillicons.dev)
-
-### Database
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark)](https://skillicons.dev)
-
-### Mobile
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart&theme=dark)](https://skillicons.dev)
-
-### Tools & Others
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,nginx,figma,postman,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,tailwind,bootstrap,nodejs,express,laravel,php,mongodb,mysql,flutter,git,docker,nginx,figma&theme=dark)](https://skillicons.dev)
 
 </div>
 
