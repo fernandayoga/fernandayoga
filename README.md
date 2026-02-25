@@ -68,9 +68,7 @@ I am a passionate **Fullstack Developer** with a strong focus on building modern
 
 ## 💻 Most Used Languages
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernandayoga&theme=tokyonight" alt="Top Languages by Repo" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fernandayoga&theme=tokyonight" alt="Top Languages by Commit" />
+![Top Languages](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=fernandayoga&skills=JavaScript,TypeScript,Python,HTML,CSS,PHP&theme=dark)
 
 </div>
 
