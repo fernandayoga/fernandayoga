@@ -53,28 +53,17 @@ I am a passionate **Fullstack Developer** with a strong focus on building modern
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fernandayoga&theme=tokyonight&hide_border=true&background=0D1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7)
-
-</div>
-
----
-
-
 <div align="center">
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=fernandayoga&skills=JavaScript,TypeScript,Python,HTML,CSS,PHP&theme=dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernandayoga&theme=tokyonight" alt="Top Languages by Repo" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fernandayoga&theme=tokyonight" alt="Top Languages by Commit" />
 
 </div>
 
-
 ---
-
 
 ## 📫 Connect With Me
 
