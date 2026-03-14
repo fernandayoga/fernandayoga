@@ -13,11 +13,6 @@
 
 I am a passionate **Fullstack Developer** with a strong focus on building modern, scalable, and high-performance web and mobile applications using current technologies. I continuously improve my skills by exploring new technologies, programming languages, and development tools while staying up-to-date with the latest trends in the tech industry.
 
-- 🌱 Learning **TypeScript, Next.js, Docker**
-- 💬 Ask me about **React, Node.js, Flutter**
-- 📫 How to reach me: **fernandayoga34@gmail.com**
-- ⚡ Fun fact: I love building things that make a difference
-
 ---
 
 ## 🛠️ Tech Stack
