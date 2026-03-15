@@ -1,8 +1,8 @@
 <div align="center">
   
-# Hi, I'm Fernanda Yoga Kurniawan 👋
+# Hi, I'm Fernanda Yoga Kurniawan
 
-### 🚀 Fullstack Developer | 💻 Code Enthusiast | 💡Problem Solver
+###  Fullstack Developer |  Code Enthusiast | Problem Solver
 
 
 </div>
